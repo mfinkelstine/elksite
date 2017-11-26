@@ -1,1 +1,1 @@
-<h1>Biuld Elasticsearh Dashboard & Permission & Monitoring</h1>
+<h1>Elasticsearh Dashboard & Permission & Monitoring</h1>
